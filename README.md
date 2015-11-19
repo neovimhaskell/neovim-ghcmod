@@ -1,3 +1,9 @@
+ABANDONED
+=========
+
+[NecoGhc][] combined with [Deoplete][] are a way better solution to get code completion
+running for neovim. Please give it a try!
+
 Neovim `ghc-mod` Integration
 ============================
 
@@ -16,3 +22,5 @@ You can configure an explicit path to your `ghc-modi` binary if needed by settin
 [Neovim]: http://neovim.io
 [GhcMod]: http://www.mew.org/~kazu/proj/ghc-mod/en/
 [Demo]: https://vimeo.com/134767975
+[NecoGhc]: https://github.com/eagletmt/neco-ghc
+[Deoplete]: https://github.com/Shougo/deoplete.nvim
